@@ -33,7 +33,6 @@ Sudoku-Game/
 ┃ ┗ UserChoice.java
 ┣ lib/
 ┃ ┗ stdlib.jar
-┣ .gitignore
 ┣ LICENSE
 ┣ README.md
 
