@@ -30,8 +30,7 @@ Sudoku-Game/
 ┣ src/
 ┃ ┣ Board.java
 ┃ ┣ Sudoku.java
-┃ ┗ UserChoice.java
-┣ lib/
+┃ ┣ UserChoice.java
 ┃ ┗ stdlib.jar
 ┣ LICENSE
 ┣ README.md
